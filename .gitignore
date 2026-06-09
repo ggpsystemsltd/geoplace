@@ -1,5 +1,7 @@
 *.local.*
 *.log
+.idea/
+.vscode/
 /nbproject/
 .env
 /vendor/
